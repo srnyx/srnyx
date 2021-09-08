@@ -2,4 +2,4 @@
 
 📫 More information about me can be found at https://srnyx.xyz/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srnyx)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srnyx&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
