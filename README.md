@@ -4,4 +4,4 @@
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=srnyx&no-bg=true&no-frame=true)](https://srnyx.xyz)
 
-[![Views](https://komarev.com/ghpvc/?username=srnyx)](https://srnyx.xyz)![](https://hit.yhype.me/github/profile?user_id=25808801)
+[![Views](https://komarev.com/ghpvc/?username=srnyx&style=for-the-badge)](https://srnyx.xyz)![](https://hit.yhype.me/github/profile?user_id=25808801)
