@@ -1,7 +1,39 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/242385234992037888?idleMessage=Check%20out%20my%20website:%20srnyx.xyz)](https://srnyx.xyz)
+<div align="center">
+  <a href="https://srnyx.xyz">
+    <img src="https://github-readme-stats.vercel.app/api?username=srnyx&show_icons=true&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srnyx&layout=compact&theme=github_dark" />
+    <p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=srnyx" />
+  </a>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=srnyx&show_icons=true&theme=github_dark)](https://srnyx.xyz)
+---
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=srnyx&no-bg=true&no-frame=true)](https://srnyx.xyz)
+  <h3>Languages</h3><p>
+  <a href="https://srnyx.xyz">
+    <img src="https://skillicons.dev/icons?i=java,python,html,javascript,bash,markdown" />
+  </a>
+  
+  <h3>Tools</h3><p>
+  <a href="https://srnyx.xyz">
+    <img src="https://skillicons.dev/icons?i=github,git,idea,gradle,regex,mongodb,stackoverflow,cloudflare,workers" />
+  </a>
+  
+  <h3>Other</h3><p>
+  <a href="https://srnyx.xyz">
+    <img src="https://skillicons.dev/icons?i=discord,discordbots,twitter,photoshop,illustrator" />
+  </a>
 
-[![Views](https://komarev.com/ghpvc/?username=srnyx&style=for-the-badge)](https://srnyx.xyz)![](https://hit.yhype.me/github/profile?user_id=25808801)
+---
+
+  <h3>Trophies</h3><p>
+  <a href="https://srnyx.xyz">
+    <img src="https://github-profile-trophy.vercel.app/?username=srnyx&no-bg=true&no-frame=true&column=-1" />
+  </a>
+
+---
+
+  <a href="https://srnyx.xyz">
+    <img src="https://komarev.com/ghpvc/?username=srnyx&style=for-the-badge" />
+  </a>
+</p>
+
+![](https://hit.yhype.me/github/profile?user_id=25808801)
