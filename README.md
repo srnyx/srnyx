@@ -2,7 +2,7 @@
   <a href="https://srnyx.xyz">
     <img src="https://github-readme-stats.vercel.app/api?username=srnyx&show_icons=true&theme=github_dark" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srnyx&layout=compact&theme=github_dark" />
-    <p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=srnyx" />
+    <p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=srnyx&layout=compact" />
   </a>
 
 ---
