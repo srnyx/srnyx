@@ -5,6 +5,12 @@
 
 ---
 
+  <a href="https://srnyx.com/discord">
+    <img src="https://lanyard.cnrad.dev/api/242385234992037888" />
+  </a>
+
+---
+
   <a href="https://srnyx.com">
     <img src="https://github-profile-trophy-tawny.vercel.app?username=srnyx&no-bg=true&no-frame=true&column=-1&theme=darkhub" />
   </a>
